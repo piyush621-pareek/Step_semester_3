@@ -5,7 +5,7 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
-## Date: 18-09-2026
+## Date: 12-09-2026
 **Today's Work:**
 - Session 6 (topic: `oop_classes`) — pushed to `feature/session_6`.
 - Class problems: CourseDemo, IdCardDemo, MessWalletDemo, PlacementDemo, StudentDemo.
