@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 18-09-2026
+**Today's Work:**
+- Session 6 (topic: `oop_classes`) — pushed to `feature/session_6`.
+- Class problems: CourseDemo, IdCardDemo, MessWalletDemo, PlacementDemo, StudentDemo.
+- Assignment problems: CompanyDemo, EmployeeDemo, HallTicketDemo, LibraryDemo, PayrollDemo (classes, objects, constructors, encapsulation).
+
+**Next Session Plan:**
+- Move into inheritance and polymorphism.
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 05-09-2026
 **Today's Work:**
 - Session 5 (topic: `sorting`) — pushed to `feature/session_5`.
