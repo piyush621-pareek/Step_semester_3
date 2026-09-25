@@ -5,7 +5,7 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
-## Date: 25-09-2026
+## Date: 19-09-2026
 **Today's Work:**
 - Session 7 (topic: `encapsulation`) — pushed to `feature/session_7`.
 - Class problems: AttendanceSheet, Locker, NameTag, PiggyBank, Scorecard.
