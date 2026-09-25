@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 25-09-2026
+**Today's Work:**
+- Session 7 (topic: `encapsulation`) — pushed to `feature/session_7`.
+- Class problems: AttendanceSheet, Locker, NameTag, PiggyBank, Scorecard.
+- Assignment problems: Cart, Character, PasswordChecker, Playlist, TrafficLight (private fields, validated setters, read-only/immutable state).
+
+**Next Session Plan:**
+- Continue with inheritance and polymorphism.
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 12-09-2026
 **Today's Work:**
 - Session 6 (topic: `oop_classes`) — pushed to `feature/session_6`.
