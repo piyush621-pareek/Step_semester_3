@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 26-09-2026
+**Today's Work:**
+- Session 8 (topic: `inheritance_polymorphism`) — pushed to `feature/session_8`.
+- Class problems: PaymentSystem, LibraryDueDate, DeliveryFee, ExamGrader, TransportFare.
+- Assignment problems: CanteenBilling, ParkingCharge, HostelElectricity, FestivalBonus, StreamingRenewal (inheritance, method overriding, runtime polymorphism).
+
+**Next Session Plan:**
+- Continue with abstraction and interfaces.
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 19-09-2026
 **Today's Work:**
 - Session 7 (topic: `encapsulation`) — pushed to `feature/session_7`.
