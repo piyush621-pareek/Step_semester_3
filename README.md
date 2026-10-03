@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 03-10-2026
+**Today's Work:**
+- Session 9 (topic: `abstraction_interface`) — pushed to `feature/session_9`.
+- Class problems: GardenPlotReport, WeeklyStaffPay, LibraryFineCounter, ElectricityBilling, TravelBooking.
+- Assignment problems: MovieTicketCounter, ParcelShippingDesk, CollegeFeeCounter, CityCabFareMeter, ApplianceEnergyReport (abstract classes, interfaces for optional capabilities, class vs interface).
+
+**Next Session Plan:**
+- Continue with collections and generics.
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 26-09-2026
 **Today's Work:**
 - Session 8 (topic: `inheritance_polymorphism`) — pushed to `feature/session_8`.
