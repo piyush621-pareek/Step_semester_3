@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 10-10-2026
+**Today's Work:**
+- Session 10 (topic: `linear_data_structures`) — pushed to `feature/session_10`.
+- Class problems: VowelConsonantCounter, WordReverserPalindrome, EvenOddCounter, InPlaceArrayReversal, DigitSumReversal, PrimeChecker, FactorialCalculation, StudentGrade, LeapYearDetector, StudentResultCard.
+- Assignment problems: DutyRosterRotation, ClassAttendanceTracker, ExamScoreBandCounter, BusiestBusRow, SecondBestScore (array algorithms, binary search, in-place rotation, streak/row aggregation).
+
+**Next Session Plan:**
+- Continue with stacks, queues, and linked lists.
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 03-10-2026
 **Today's Work:**
 - Session 9 (topic: `abstraction_interface`) — pushed to `feature/session_9`.
