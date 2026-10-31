@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 31-10-2026
+**Today's Work:**
+- Session 11 (topic: `searching_sorting`) — pushed to `feature/session_11`.
+- Class problems: LibraryCatalogLookup, WarehouseBinGridScan, TransactionDuplicateCheck, EmployeeIdLookup, PairWithTargetSum, BestSingleTradeProfit, SearchInsertPosition, SpiralOrderTraversal, PairSumSorted, RemoveDuplicatesSorted.
+- Assignment problems: HeightLineUp, PrizeTable, LibraryBookShelf, QueueInOrder, DiceThrowTally (bubble, selection, insertion and counting sort written by hand).
+
+**Next Session Plan:**
+- Continue with advanced sorting (merge sort, quick sort).
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 10-10-2026
 **Today's Work:**
 - Session 10 (topic: `linear_data_structures`) — pushed to `feature/session_10`.
