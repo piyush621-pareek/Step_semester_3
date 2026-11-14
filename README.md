@@ -5,6 +5,20 @@ This `main` branch holds only this running daily log. Session code lives in the 
 
 ---
 
+## Date: 14-11-2026
+**Today's Work:**
+- Session 12 (topic: `linked_lists`) — pushed to `feature/session_12`.
+- Class problems: CampusStaffSalary, ClassReportCard, LibraryReturnDesk, PaymentProcessing, WeeklyRainfall, HostelElectricityBill.
+- Assignment problems: BusRouteStops, LateComersLine, BookCopyFinder, CancelBooking, PlateStack (custom singly linked list: build, traverse, insert, search, delete, linked stack).
+
+**Next Session Plan:**
+- Continue with doubly linked lists and queues on a chain.
+
+**Issues Faced:**
+- None.
+
+---
+
 ## Date: 31-10-2026
 **Today's Work:**
 - Session 11 (topic: `searching_sorting`) — pushed to `feature/session_11`.
